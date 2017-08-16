@@ -1,5 +1,4 @@
 /* eslint-disable  func-names */
-/* eslint quote-props: ["error", "consistent"] */
 /* eslint object-shorthand: 0 */
 
 import Alexa from 'alexa-sdk';
