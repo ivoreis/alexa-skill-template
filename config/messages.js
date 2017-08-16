@@ -1,0 +1,7 @@
+export default {
+  HELP: 'HELP',
+  HELP_REPROMPT: 'HELP_REPROMPT',
+  SKILL_NAME: 'SKILL_NAME',
+  STOP: 'STOP',
+  CANCEL: 'CANCEL',
+};
